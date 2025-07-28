@@ -19,11 +19,6 @@ Make sure you have the following installed:
 - `sensor_msgs`
 
 
-Install dependencies (example with `open3d`):
-
-```bash
-pip install open3d
-
 
 ## How to Run
 
